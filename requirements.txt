@@ -1,8 +1,7 @@
-liste des librairies Python utilisées,
-
 streamlit
 pymupdf
 pandas
 unidecode
 rapidfuzz
 openpyxl
+
